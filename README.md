@@ -1,2 +1,2 @@
-<img src="resumePage01.png" />
-<img src="resumePage02.png" />
+<img src="Donald Newholm CV (FSJ).jpg" />
+<img src="Donald Newholm CV (FSJ) 2.jpg" />
