@@ -1,2 +1,2 @@
-<img src="Donald Newholm CV (FSJ).jpg" />
-<img src="Donald Newholm CV (FSJ) 2.jpg" />
+<img src="1.jpg" />
+<img src="2.jpg" />
